@@ -1,3 +1,9 @@
 code has been added in amazon file for testing the github process
 
-now adding the data in github and will try to pull data 
+now adding the data in github and will try to pull data
+
+ 
+num1 = 10
+num2 = 5
+sum_result = num1 + num2
+print(f"The sum of {num1} and {num2} is: {sum_result}")
