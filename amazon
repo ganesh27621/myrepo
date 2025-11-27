@@ -10,3 +10,11 @@ print(f"The sum of {num1} and {num2} is: {sum_result}")
 
 
 now adding the data with out pull the code from github to local
+
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); // This line prints the message
+    }
+}
+
